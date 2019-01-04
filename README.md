@@ -11,6 +11,8 @@ https://github.com/andreafabrizi/Dropbox-Uploader
 Graphics version:
 http://raspi.tv/2013/how-to-use-dropbox-with-raspberry-pi
 
+After configuration you need to indicate script path in dropbox_uploader_path.txt file. Example exists already in this file.
+
 ### Running
 
 Go into project directory and simply type:
