@@ -4,7 +4,8 @@ Little GUI app for basic Dropbox account operations in Linux OS. Tested on Ubunt
 
 ### Prerequisites
 
-You need to have installed python3.
+Be sure you have installed python3.
+
 You need to have configured usage of script. Instruction is available at the adress:
 https://github.com/andreafabrizi/Dropbox-Uploader
 
