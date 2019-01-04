@@ -1,1 +1,1 @@
-/home/andrzej/Dropbox-Uploader
+/home/<user_name>/Dropbox-Uploader
