@@ -1,0 +1,4 @@
+ > Downloading folder "/PlikiDoPobrania" to "/home/andrzej/PyBoxer/PlikiDoWysłania/PlikiDoPobrania/"... 
+ > Creating local directory "/home/andrzej/PyBoxer/PlikiDoWysłania/PlikiDoPobrania/"... DONE
+ > Downloading "/PlikiDoPobrania/Tw3_concept_art_Alternative_Look_for_Yennefer.jpg" to "/home/andrzej/PyBoxer/PlikiDoWysłania/PlikiDoPobrania/Tw3_concept_art_Alternative_Look_for_Yennefer.jpg"... DONE
+ > Downloading "/PlikiDoPobrania/5912ecd0ae653ac7743b7e3a.jpg" to "/home/andrzej/PyBoxer/PlikiDoWysłania/PlikiDoPobrania/5912ecd0ae653ac7743b7e3a.jpg"... DONE
