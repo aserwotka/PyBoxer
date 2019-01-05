@@ -9,7 +9,7 @@ Be sure you have installed python3.
 You need to have configured usage of script. Instruction is available at the adress:
 https://github.com/andreafabrizi/Dropbox-Uploader
 
-Graphics version:
+Graphical version:
 http://raspi.tv/2013/how-to-use-dropbox-with-raspberry-pi
 
 After configuration you need to indicate script path in dropbox_uploader_path.txt file. Example exists already in this file.
