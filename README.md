@@ -2,7 +2,7 @@
 
 Little GUI app for basic Dropbox account operations in Linux OS. Tested on Ubuntu 16.04 and Ubuntu 18.04.
 
-### Prerequisites
+## Prerequisites
 
 Be sure you have installed python3.
 
@@ -14,7 +14,7 @@ http://raspi.tv/2013/how-to-use-dropbox-with-raspberry-pi
 
 After configuration you need to indicate script path in dropbox_uploader_path.txt file. Example exists already in this file.
 
-### Running
+## Running
 
 Go into project directory and simply type:
 
