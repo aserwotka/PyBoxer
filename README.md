@@ -24,7 +24,7 @@ python3 MainWindow.py
 
 ## Contributing
 
-The project uses [!Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) script.
+The project uses [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) script.
 
 ## Author
 
