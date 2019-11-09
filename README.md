@@ -6,11 +6,9 @@ Little GUI app for basic Dropbox account operations in Linux OS. Tested on Ubunt
 
 Be sure you have python3 installed.
 
-You need to have configured usage of script. Instruction is available at the adress:
-https://github.com/andreafabrizi/Dropbox-Uploader
+You need to configure script. Instruction is available at the [Dropbox-Uploader](Dropbox-Uploader) page.
 
-Graphical version:
-http://raspi.tv/2013/how-to-use-dropbox-with-raspberry-pi
+Or you can read [graphical version](http://raspi.tv/2013/how-to-use-dropbox-with-raspberry-pi)instead.
 
 After configuration you need to indicate script path in dropbox_uploader_path.txt file. Example exists already in this file.
 
